@@ -1,0 +1,8 @@
+setup.py
+ddcomp/__init__.py
+ddcomp.egg-info/PKG-INFO
+ddcomp.egg-info/SOURCES.txt
+ddcomp.egg-info/dependency_links.txt
+ddcomp.egg-info/not-zip-safe
+ddcomp.egg-info/requires.txt
+ddcomp.egg-info/top_level.txt
